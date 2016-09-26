@@ -1,0 +1,95 @@
+html
+
+.logo{
+	text-align: center;
+}
+
+header {
+    height: 120px;
+    background-color: #FFFFFF;
+    border-top: 50px solid #232323;
+}
+
+nav li {
+    display: inline;
+    margin: 0 5px;
+    font-size: 15px;
+    color: red;
+}
+
+nav {
+
+    text-align: center;
+
+}
+
+
+h1{
+	width: 600px;
+	position: absolute;
+	top: 350px;
+	left: 620px;
+	color: white;
+	border:1px solid;
+	padding: 20px;
+}
+
+h2{
+	text-align: center;
+}
+
+footer{
+	color: red;
+	height: 500px;
+    background-color: #FFFFFF;
+    border-bottom: 400px solid #232323;
+}
+
+section{
+	border-top: 8px solid #DF0F4A;
+	
+}
+
+
+.logoafpa{
+	width: 600px;
+	top: 1200px;
+	left: 750px;
+	position: absolute;
+}
+
+.logomde{
+	width: 600px;
+	top: 1220px;
+	left: 950px;
+	position: absolute;
+}
+.baspage{
+	color: white;
+	width: 600px;
+	top: 1390px;
+	left: 800px;
+	position: absolute;
+	font-size: 12px;
+}
+
+.computer1{
+	width: 600px;
+	top: 690px;
+	left: 500px;
+	position: absolute;
+}
+
+.computer2{
+	width: 600px;
+	top: 690px;
+	left: 850px;
+	position: absolute;
+}
+
+.computer3{
+	width: 600px;
+	top: 690px;
+	left: 1200px;
+	position: absolute;
+}
